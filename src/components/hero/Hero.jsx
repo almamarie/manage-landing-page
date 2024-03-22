@@ -5,7 +5,7 @@ import Button from "../ui/button/Button";
 
 const Hero = () => {
   return (
-    <div className={styles.wrapper}>
+    <section className={styles.wrapper}>
       <div className={styles.text}>
         <h1>Bring everyone together to build better products</h1>
         <p>
@@ -19,7 +19,7 @@ const Hero = () => {
         src={illustrationImg}
         alt="illustration"
       />
-    </div>
+    </section>
   );
 };
 
