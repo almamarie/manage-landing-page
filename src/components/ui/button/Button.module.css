@@ -1,0 +1,12 @@
+.btn{
+    padding: 1.2rem 2.4rem;
+    color: var(--color--red__tint);
+    background-color: var(--color--red);
+
+    border: none;
+    border-radius: 2.5rem;
+
+    box-shadow: 2px 5px 10px var(--color--grayish-blue);
+
+    cursor: pointer;
+}

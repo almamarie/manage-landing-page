@@ -1,0 +1,24 @@
+.header {
+    margin: 5.6rem var(--default-margin);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    gap: 2rem;
+}
+
+.a, .a:link{
+    font-size: 1.4rem;
+
+    text-decoration: none;
+
+    font-weight: bold;
+}
+
+.a:hover{
+    color: var(--color--grayish-blue);
+}
