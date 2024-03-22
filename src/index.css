@@ -57,7 +57,7 @@ html{
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "BeVietnamPro", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--color--gray__tint);

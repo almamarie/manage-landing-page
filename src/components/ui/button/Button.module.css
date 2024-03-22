@@ -1,5 +1,5 @@
 .btn{
-    padding: 1.2rem 2.4rem;
+    padding: 1.2rem 3.2rem;
     color: var(--color--red__tint);
     background-color: var(--color--red);
 
@@ -9,4 +9,8 @@
     box-shadow: 2px 5px 10px var(--color--grayish-blue);
 
     cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #f57f61;
 }
