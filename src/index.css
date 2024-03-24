@@ -62,3 +62,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--color--gray__tint);
 }
+
+p {
+    font-size: 1.8rem;
+    font-weight: bold;
+    
+    color: var(--color--grayish-blue);
+
+    line-height: 1.8;
+}

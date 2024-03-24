@@ -33,11 +33,6 @@
 
 .text p {
     width: 40rem;
-    
-    font-size: 1.8rem;
-    font-weight: bold;
-    
-    color: var(--color--grayish-blue);
 }
 
 .btn{

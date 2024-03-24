@@ -1,0 +1,40 @@
+/*
+- Font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+
+.feature {
+    display: flex;
+    gap: 2.4rem;
+}
+
+.number-wrapper{
+    padding: 1rem 2.5rem;
+
+    background-color: var(--color--red);
+
+    align-self: flex-start;
+
+    border-radius: 2.5rem;
+
+    color: var(--color--gray__tint);
+
+    font-weight: bold;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+}
+
+.content h3 {
+    font-weight: bold;
+}
+
+.content p {
+    width: 40rem;
+}
